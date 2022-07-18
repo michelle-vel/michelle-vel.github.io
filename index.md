@@ -18,7 +18,7 @@
 - Currently working with the Radivojac Lab at Northeastern Khoury College of Computer Science as a Research Assistant 
 - The lab specializes in computational biology and machine learning 
 - Working on project in Python to parse data from the AlphaFold2 database in order to analyze protein function and structure 
-- Ongoing project with the goal of predicting effect of mutations on protein structure  
+- My ongoing project has the goal of predicting effect of mutations on protein structure  
 
 ##### Past:
 - From 2018-2020, I worked in the Horiuchi Lab at Northwestern University, a breast cancer research lab.
