@@ -13,6 +13,11 @@
 - Implemented code to read pixels of any given image, perform various image processing tasks, and save the updated image
 - Implemented GUI with Java Swing to display an interface to edit the image with buttons
 
+### Research:
+- Currently working with the Radivojac lab at Northeastern as a Research Assistant 
+- Working on code in Python to parse data from the AlphaFold2 database in order to analyze and predict protein function and structure 
+- Ongoing project with the eventual goal of predicting effect of mutations on protein structure  
+
 ### Clubs:
 - Developer for Northeastern Code For Community, a student-run organization that partners with nonprofits to provide software solutions 
   - Currently working with the Jameel Poverty Action Lab, a global research center working to reduce poverty
