@@ -14,9 +14,16 @@
 - Implemented GUI with Java Swing to display an interface to edit the image with buttons
 
 ### Research:
+##### Current:
 - Currently working with the Radivojac lab at Northeastern as a Research Assistant 
 - Working on code in Python to parse data from the AlphaFold2 database in order to analyze and predict protein function and structure 
 - Ongoing project with the eventual goal of predicting effect of mutations on protein structure  
+
+##### Past:
+- From 2018-2020, I worked in the Horiuchi Lab at Northwestern University, a breast cancer research lab.
+- I performed biological assays and contributed data to our published paper 
+- **second author** on the final published paper in [Cell Chemical Biology](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00400-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451945621004001%3Fshowall%3Dtrue)
+
 
 ### Clubs:
 - Developer for Northeastern Code For Community, a student-run organization that partners with nonprofits to provide software solutions 
