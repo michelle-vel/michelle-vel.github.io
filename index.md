@@ -30,3 +30,5 @@
   - Currently working with the Jameel Poverty Action Lab, a global research center working to reduce poverty
   - Our team developed a system to create and distribute surveys that were used to compile unique letters of   recommendation for each student. This was used by the New York City Department of Youth and Community Development.
   - I contributed to both the frontend and backend, mainly using TypeScript.
+- Member of Northeastern Women in Tech
+- Member of Northeastern Biology Club
