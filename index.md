@@ -17,7 +17,7 @@
 ##### Current:
 - Currently working with the Radivojac Lab at Northeastern Khoury College of Computer Science as a Research Assistant 
 - The lab specializes in computational biology and machine learning 
-- Working on project in Python to parse data from the AlphaFold2 database in order to analyze protein function and structure 
+- I am working on a project in Python to parse data from the AlphaFold2 database in order to analyze protein function and structure 
 - My ongoing project has the goal of predicting effect of mutations on protein structure  
 
 ##### Past:
@@ -33,3 +33,6 @@
   - I contributed to both the frontend and backend, mainly using TypeScript.
 - Member of Northeastern Women in Tech
 - Member of Northeastern Biology Club
+
+### Publications:
+[Synergistic PIM kinase and proteasome inhibition as a therapeutic strategy for MYC-overexpressing triple-negative breast cancer](https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(21)00400-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2451945621004001%3Fshowall%3Dtrue)
